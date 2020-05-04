@@ -56,5 +56,10 @@ public class MainActivity extends AppCompatActivity {
                 notificationManager.notify(0, builder.build());
             }
         });
+        
+        gullu();
+    }
+
+    private void gullu() {
     }
 }
